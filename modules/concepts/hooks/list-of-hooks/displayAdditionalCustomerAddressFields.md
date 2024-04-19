@@ -20,7 +20,7 @@ origin: theme
 array_return: false
 check_exceptions: false
 chain: false
-description: This hook allows to display extra field values added in an address form using hook 'additionalCustomerAddressFields'
+description: This hook allows to display extra field values added in an address form using hook 'displayAdditionalCustomerAddressFields'
 
 ---
 
